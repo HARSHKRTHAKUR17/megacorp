@@ -1,3 +1,3 @@
-# megacorp
+# megacorp | bad marketting
 
-The starter repo for the [Git 2 course](https://www.boot.dev/learn/learn-git-2) on Boot.dev.
+MeagCorp is a mega corporation which focusses on marketting and crushing out bullshit opinions about serious matters, you will love it.
